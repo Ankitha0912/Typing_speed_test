@@ -144,4 +144,4 @@ with st.expander("📊 Score Tracker"):
 
 # --- Footer ---
 st.markdown("---")
-st.caption("Made with ❤️ using Streamlit | Countdown + Score Tracker Active")
+st.caption("Made with ❤️ using Streamlit")
